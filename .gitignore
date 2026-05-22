@@ -1,0 +1,13 @@
+# Entorno virtual
+.venv/
+
+# Datos
+data/raw/
+data/processed/
+
+# Cache de Python
+__pycache__/
+*.pyc
+
+# Configuración local de VS Code
+.vscode/
